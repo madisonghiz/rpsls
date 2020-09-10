@@ -1,2 +1,6 @@
-# rpsls
-Rock-paper-scissor-lizard-spock game.
+# Rock-paper-scissor-lizard-Spock
+
+Play RPSLS against the computer. 
+
+
+## Check
