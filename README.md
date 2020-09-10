@@ -1,6 +1,6 @@
 # Rock-paper-scissor-lizard-Spock
 
-Play RPSLS against the computer. 
+## About
 
+A very basic rock, paper, scissor type game. The first project from Coursera's Introduction to Interactive Programming in Python, part I. 
 
-## Check
